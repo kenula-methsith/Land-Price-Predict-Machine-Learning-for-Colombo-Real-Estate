@@ -22,5 +22,5 @@ Explainability: Returns derived features alongside predictions.
 ├── model_features.pkl             
 ├── address_mapping.csv            
 ├── Land prices of Colombo district-Sri Lanka.csv  
-├── templates/
-│   └── index.html                
+├── templates
+  └── index.html                

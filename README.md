@@ -17,6 +17,7 @@ Ensemble Model: Combines LightGBM, XGBoost, and Gradient Boosting with a Ridge m
 Web Application: User-friendly Flask interface for price prediction.
 Explainability: Returns derived features alongside predictions.
 
+
 ├── app.py                             
 ├── colombo_land_price_model.pkl   
 ├── model_features.pkl             
@@ -24,3 +25,8 @@ Explainability: Returns derived features alongside predictions.
 ├── Land prices of Colombo district-Sri Lanka.csv  
 ├── templates
   └── index.html                
+
+
+<img width="1919" height="978" alt="Screenshot 2025-10-02 160635" src="https://github.com/user-attachments/assets/4ff092e9-e561-464a-9fb0-627a628bfa58" />
+<img width="1911" height="967" alt="Screenshot 2025-10-02 160845" src="https://github.com/user-attachments/assets/d1de2a07-e597-40da-90b7-b7edcd323f02" />
+<img width="1919" height="925" alt="Screenshot 2025-10-02 160943" src="https://github.com/user-attachments/assets/7b0b9502-be0b-4db7-b68b-f74d263ef224" />

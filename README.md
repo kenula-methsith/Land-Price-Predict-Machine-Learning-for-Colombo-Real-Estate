@@ -1,4 +1,4 @@
-# Land-Price-Predict-Machine-Learning-for-Colombo-Real-Estate
+# Land-Price-Predict-Machine-Learning-model-for-Colombo-Real-Estate
 
 Land Price Predict: Machine Learning for Colombo Real Estate
 
